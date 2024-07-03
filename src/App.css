@@ -9,7 +9,7 @@
 
 .streach {
   background-size: 100% 100%; /* Stretch to cover without preserving aspect ratio */
-  background-image: url('/images/snow.gif'); /* Replace with your image or GIF URL */
+  background-image: url('../public/images/snow.gif'); /* Replace with your image or GIF URL */
   background-repeat: no-repeat; /* Prevent the image from repeating */
         }
  
